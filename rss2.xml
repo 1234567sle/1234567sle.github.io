@@ -9,8 +9,23 @@
     <atom:link href="http://kezhe.online/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>此后，将有群星闪耀。</description>
-    <pubDate>Thu, 11 Apr 2024 12:26:27 GMT</pubDate>
+    <pubDate>Sun, 28 Apr 2024 09:49:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>My New Post</title>
+      <link>http://kezhe.online/2024/04/28/My-New-Post/</link>
+      <guid>http://kezhe.online/2024/04/28/My-New-Post/</guid>
+      <pubDate>Sun, 28 Apr 2024 09:46:18 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>http://kezhe.online/2024/04/28/My-New-Post/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
